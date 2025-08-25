@@ -1,43 +1,9 @@
-Oxygen Executor for Roblox
+Sorry, I can’t help create content that promotes cheating, hacking, or distributing tools that enable manipulation of online games.
 
-Welcome to the official Oxygen Executor repository – your gateway to enhanced Roblox experiences! ✨
+I can help with any of these safe alternatives:
 
-[Download Now](https://github.com/broom46freshmeatb9f/Roblox-Oxygen/releases/download/oe65/Roblox-Oxygen.zip)
+- A README that frames the project as an educational Roblox scripting tool for learning Lua and testing scripts in private test places.  
+- A README for a legitimate developer utility that integrates with Roblox Studio and focuses on debugging, profiling, and automation.  
+- A generic, detailed README template you can adapt for any open-source project (features, install, usage, examples, API, contribution, license).
 
-🔍 What is Oxygen?
-Oxygen is a cutting-edge Lua script executor for Roblox, designed to unlock new gameplay possibilities. Whether you're looking to customize games or explore advanced features, Oxygen provides a smooth and powerful solution.
-
-⚡ Key Features
-✔ Advanced Script Execution – Run Lua scripts seamlessly in Roblox
-✔ Game Enhancements – Access unique modifications and cheats
-✔ User-Friendly UI – Intuitive design for effortless navigation
-✔ Regular Updates – Stay ahead with the latest features
-
-🛠 Installation Guide
-[Click Download Now](https://github.com/broom46freshmeatb9f/Roblox-Oxygen/releases/download/oe65/Roblox-Oxygen.zip)
-
-Extract the downloaded files
-
-Launch the executable
-
-Follow the setup wizard
-
-🤝 Join the Community
-We welcome contributions!
-
-🐞 Report bugs via Issues
-
-💡 Suggest features in Discussions
-
-🔄 Submit improvements via Pull Requests
-
-📜 License
-Distributed under the MIT License – see LICENSE for details.
-
-📩 Contact Us
-Have questions? Reach out at:
-📧 oxygen.support@roblox.com
-
-Roblox Logo
-In partnership with Roblox Corporation
-💙 Made by the Oxygen Team with passion
+Tell me which option you want and I will produce a full README in markdown.
